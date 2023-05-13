@@ -1,0 +1,65 @@
+﻿  Game.cpp
+C:\Users\awedi\Documents\game_project\game_project\Game.cpp(11,57): warning C4244: 'argument': conversion from 'float' to 'unsigned int', possible loss of data
+C:\Users\awedi\Documents\game_project\game_project\Game.cpp(11,46): warning C4244: 'argument': conversion from 'float' to 'unsigned int', possible loss of data
+C:\Users\awedi\Documents\game_project\game_project\Game.cpp(20,57): warning C4244: 'argument': conversion from 'float' to 'unsigned int', possible loss of data
+C:\Users\awedi\Documents\game_project\game_project\Game.cpp(20,46): warning C4244: 'argument': conversion from 'float' to 'unsigned int', possible loss of data
+C:\Users\awedi\Documents\game_project\game_project\Game.cpp(84,47): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\awedi\Documents\game_project\game_project\Game.cpp(219,68): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\awedi\Documents\game_project\game_project\Game.cpp(219,46): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\awedi\Documents\game_project\game_project\Game.cpp(301,94): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\awedi\Documents\game_project\game_project\Game.cpp(301,73): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\awedi\Documents\game_project\game_project\Game.cpp(303,100): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\awedi\Documents\game_project\game_project\Game.cpp(303,79): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\awedi\Documents\game_project\game_project\Game.cpp(305,98): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\awedi\Documents\game_project\game_project\Game.cpp(305,77): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\awedi\Documents\game_project\game_project\Game.cpp(323,15): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\awedi\Documents\game_project\game_project\Game.cpp(360,51): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\awedi\Documents\game_project\game_project\Game.cpp(361,57): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\awedi\Documents\game_project\game_project\Game.cpp(362,55): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\awedi\Documents\game_project\game_project\Game.cpp(363,57): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\awedi\Documents\game_project\game_project\Game.cpp(364,53): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\awedi\Documents\game_project\game_project\Game.cpp(365,55): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\awedi\Documents\game_project\game_project\Game.cpp(401,70): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\awedi\Documents\game_project\game_project\Game.cpp(401,49): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\awedi\Documents\game_project\game_project\Game.cpp(457,15): warning C4305: '+=': truncation from 'double' to 'float'
+  game_project.vcxproj -> C:\Users\awedi\Documents\game_project\x64\Debug\game_project.exe

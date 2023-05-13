@@ -1,0 +1,2 @@
+﻿  game_project.cpp
+LINK : fatal error LNK1181: cannot open input file 'sfmls-window.lib'
